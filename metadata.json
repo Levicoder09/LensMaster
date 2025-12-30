@@ -1,0 +1,7 @@
+{
+  "name": "CineMaster: Photography & Cinematography Simulator",
+  "description": "An interactive 3D learning platform for beginners to master camera movements, lighting, and composition, with an AI prompt generator for creative workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
